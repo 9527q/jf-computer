@@ -6,4 +6,11 @@
 
 ## 代码
 
+文件格式
+
+* 课堂代码文件 `chapterNN_NN.cpp`
+* 作业代码文件 `homeworkNN_NN.cpp`
+
+目录
+
 * 程序设计基础 [mac](./mac/program_design_base/)
