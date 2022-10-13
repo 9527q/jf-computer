@@ -1,8 +1,12 @@
 # jf-computer
 
-学堂在线 - 疾风计划
+学堂在线-疾风计划-一年挑战计算机专业
 
-## [笔记](https://www.yuque.com/ikee/computer)
+https://www.xuetangx.com/program/XT0809003778220301/progress
+
+## 笔记
+
+https://www.yuque.com/ikee/jf-computer
 
 ## 代码
 
